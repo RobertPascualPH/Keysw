@@ -1,3 +1,4 @@
-CONFIG += qt
-HEADERS += keysw.h
-SOURCES += app.c++
+CONFIG += qt 
+HEADERS += keysw.h 
+SOURCES += app.c++ keysw.c++
+
